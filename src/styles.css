@@ -2,3 +2,7 @@
 .margin{
   margin: 5px 0 0 0;
 }
+.center{
+  margin: 0 auto;
+  text-align: center;
+}
